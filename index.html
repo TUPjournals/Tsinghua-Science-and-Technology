@@ -159,7 +159,7 @@ body{font-family:'Inter','Microsoft YaHei',-apple-system,BlinkMacSystemFont,'Seg
 <script>
 // Main app
 (function(){
-  var DATA_URL = 'articles.json?v=20261124b';
+  var DATA_URL = 'articles.json?v=20261124c';
   var allArticles = [];
   var filteredArticles = [];
   var currentQuery = '';
@@ -319,6 +319,17 @@ var FMT_TAG_RE = /<\/?(?:i|b|em|strong|sup|sub|span|small|mark|u|s|strike|tt|cod
         kws += '<span class="kw">' + highlight(kwList[k].replace(FMT_TAG_RE, ''), currentQuery) + '</span>';
       }
       if (kws) html += '<div class="card-keywords">' + kws + '</div>';
+
+      let researchAreaHtml = '';
+      if ((a.research_area||[]).length > 0) {
+        researchAreaHtml = '<div class="card-keywords"><span style="font-size:0.78rem;color:#666;margin-right:4px;font-weight:600">Research area:</span>';
+        for (let j = 0; j < a.research_area.length; j++) {
+          researchAreaHtml += '<span class="kw" style="background:#fff3e0;color:#e65100;font-weight:600">' + esc(a.research_area[j]) + '</span>';
+        }
+        researchAreaHtml += '</div>';
+      }
+      html += researchAreaHtml;
+
       if (a.doi) html += '<div class="card-doi"><a href="https://doi.org/' + a.doi + '" target="_blank" onclick="event.stopPropagation()">https://doi.org/' + esc(a.doi) + '</a></div>';
       if (a.doi) {
         html += '<div class="card-cite" onclick="event.stopPropagation()">' +
@@ -335,13 +346,6 @@ var FMT_TAG_RE = /<\/?(?:i|b|em|strong|sup|sub|span|small|mark|u|s|strike|tt|cod
       if (a.publication_date) html += '<div class="d-item"><label>Published</label><span>' + esc(a.publication_date) + '</span></div>';
 
       html += '</div>';
-      if (a.research_area && a.research_area.length) {
-        html += '<div class="card-keywords" style="margin-top:10px">';
-        for (var r = 0; r < a.research_area.length; r++) {
-          html += '<span class="kw">' + esc(a.research_area[r]) + '</span>';
-        }
-        html += '</div>';
-      }
       if (a.abstract) html += '<div class="d-abstract"><strong>Abstract:</strong> ' + highlight(a.abstract.replace(FMT_TAG_RE, ''), currentQuery) + '</div>';
       html += '<div class="d-links">';
       if (a.pdf) html += '<a href="' + a.pdf + '" target="_blank" onclick="event.stopPropagation()">Download PDF →</a>';
