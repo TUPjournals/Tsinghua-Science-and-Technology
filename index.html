@@ -122,6 +122,7 @@ body{font-family:'Inter','Microsoft YaHei',-apple-system,BlinkMacSystemFont,'Seg
     </div>
     <select class="filter-select" id="yearFilter"><option value="">All Years</option></select>
     <select class="filter-select" id="typeFilter"><option value="">All Types</option></select>
+    <select class="filter-select" id="areaFilter"><option value="">All Areas</option></select>
   </div>
 </section>
 
@@ -158,7 +159,7 @@ body{font-family:'Inter','Microsoft YaHei',-apple-system,BlinkMacSystemFont,'Seg
 <script>
 // Main app
 (function(){
-  var DATA_URL = 'articles.json?v=20261124';
+  var DATA_URL = 'articles.json?v=20261124b';
   var allArticles = [];
   var filteredArticles = [];
   var currentQuery = '';
@@ -166,6 +167,7 @@ body{font-family:'Inter','Microsoft YaHei',-apple-system,BlinkMacSystemFont,'Seg
   var $search = document.getElementById('searchInput');
   var $year = document.getElementById('yearFilter');
   var $type = document.getElementById('typeFilter');
+  var $area = document.getElementById('areaFilter');
   var $list = document.getElementById('articleList');
   var $stats = document.getElementById('statsRow');
 
@@ -232,6 +234,7 @@ var FMT_TAG_RE = /<\/?(?:i|b|em|strong|sup|sub|span|small|mark|u|s|strike|tt|cod
         { v: a.title || '', w: 10 },
         { v: (a.authors||[]).join(' ') || '', w: 5 },
         { v: (a.keywords||[]).join(' ') || '', w: 4 },
+        { v: (a.research_area||[]).join(' ') || '', w: 3 },
         { v: a.abstract || '', w: 1 }
       ];
       var best = 0;
@@ -249,27 +252,31 @@ var FMT_TAG_RE = /<\/?(?:i|b|em|strong|sup|sub|span|small|mark|u|s|strike|tt|cod
   }
 
   function fillFilters() {
-    var years = [], types = [];
-    var yearSet = {}, typeSet = {};
+    var years = [], types = [], areas = [];
+    var yearSet = {}, typeSet = {}, areaSet = {};
     allArticles.forEach(function(a){
       if(a.year && !yearSet[a.year]) { yearSet[a.year]=1; years.push(a.year); }
       if(a.article_type && a.article_type !== 'Issue Information' && !typeSet[a.article_type]) { typeSet[a.article_type]=1; types.push(a.article_type); }
+      (a.research_area||[]).forEach(function(r){ if(!areaSet[r]) { areaSet[r]=1; areas.push(r); } });
     });
     years.sort(function(a,b){return b-a;});
     types.sort();
+    areas.sort();
     years.forEach(function(y){ var o=document.createElement('option'); o.value=y; o.textContent=y; $year.appendChild(o); });
     types.forEach(function(t){ var o=document.createElement('option'); o.value=t; o.textContent=t; $type.appendChild(o); });
+    areas.forEach(function(r){ var o=document.createElement('option'); o.value=r; o.textContent=r; $area.appendChild(o); });
   }
 
   function applyFilters() {
     var q = $search.value.trim();
     currentQuery = q;
-    var yv = $year.value, tv = $type.value;
+    var yv = $year.value, tv = $type.value, av = $area.value;
     filteredArticles = [];
     for (var i = 0; i < allArticles.length; i++) {
       var a = allArticles[i];
       if (yv && a.year != yv) continue;
       if (tv && a.article_type !== tv) continue;
+      if (av && (a.research_area||[]).indexOf(av) === -1) continue;
       var score = searchScore(a, q);
       if (q && score === 0) continue;
       a._score = score;
@@ -328,6 +335,13 @@ var FMT_TAG_RE = /<\/?(?:i|b|em|strong|sup|sub|span|small|mark|u|s|strike|tt|cod
       if (a.publication_date) html += '<div class="d-item"><label>Published</label><span>' + esc(a.publication_date) + '</span></div>';
 
       html += '</div>';
+      if (a.research_area && a.research_area.length) {
+        html += '<div class="card-keywords" style="margin-top:10px">';
+        for (var r = 0; r < a.research_area.length; r++) {
+          html += '<span class="kw">' + esc(a.research_area[r]) + '</span>';
+        }
+        html += '</div>';
+      }
       if (a.abstract) html += '<div class="d-abstract"><strong>Abstract:</strong> ' + highlight(a.abstract.replace(FMT_TAG_RE, ''), currentQuery) + '</div>';
       html += '<div class="d-links">';
       if (a.pdf) html += '<a href="' + a.pdf + '" target="_blank" onclick="event.stopPropagation()">Download PDF →</a>';
@@ -462,6 +476,7 @@ var FMT_TAG_RE = /<\/?(?:i|b|em|strong|sup|sub|span|small|mark|u|s|strike|tt|cod
   $search.addEventListener('input', debounce(applyFilters, 300));
   $year.addEventListener('change', applyFilters);
   $type.addEventListener('change', applyFilters);
+  $area.addEventListener('change', applyFilters);
 
   function debounce(fn, ms) {
     var t;

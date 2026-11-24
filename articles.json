@@ -35,7 +35,10 @@
     "pdf": "https://www.sciopen.com/local/article_pdf/10.26599/TST.2025.9010083.pdf",
     "publisher": "清华大学出版社",
     "issn": "1007-0214",
-    "research_area": []
+    "research_area": [
+      "machine learning",
+      "pattern recognition"
+    ]
   },
   {
     "doi": "10.26599/TST.2025.9010138",
@@ -78,7 +81,10 @@
     "pdf": "https://www.sciopen.com/local/article_pdf/10.26599/TST.2025.9010138.pdf",
     "publisher": "清华大学出版社",
     "issn": "1007-0214",
-    "research_area": []
+    "research_area": [
+      "machine learning",
+      "pattern recognition"
+    ]
   },
   {
     "doi": "10.26599/TST.2025.9010152",
@@ -116,7 +122,10 @@
     "pdf": "https://www.sciopen.com/local/article_pdf/10.26599/TST.2025.9010152.pdf",
     "publisher": "清华大学出版社",
     "issn": "1007-0214",
-    "research_area": []
+    "research_area": [
+      "natural language processing",
+      "machine learning"
+    ]
   },
   {
     "doi": "10.26599/TST.2025.9010145",
@@ -157,7 +166,9 @@
     "pdf": "https://www.sciopen.com/local/article_pdf/10.26599/TST.2025.9010145.pdf",
     "publisher": "清华大学出版社",
     "issn": "1007-0214",
-    "research_area": []
+    "research_area": [
+      "machine learning"
+    ]
   },
   {
     "doi": "10.26599/TST.2025.9010131",
@@ -196,7 +207,10 @@
     "pdf": "https://www.sciopen.com/local/article_pdf/10.26599/TST.2025.9010131.pdf",
     "publisher": "清华大学出版社",
     "issn": "1007-0214",
-    "research_area": []
+    "research_area": [
+      "computer vision",
+      "machine learning"
+    ]
   },
   {
     "doi": "10.26599/TST.2025.9010117",
@@ -234,7 +248,9 @@
     "pdf": "https://www.sciopen.com/local/article_pdf/10.26599/TST.2025.9010117.pdf",
     "publisher": "清华大学出版社",
     "issn": "1007-0214",
-    "research_area": []
+    "research_area": [
+      "artificial intelligence"
+    ]
   },
   {
     "doi": "10.26599/TST.2024.9010242",
@@ -271,7 +287,9 @@
     "pdf": "https://www.sciopen.com/local/article_pdf/10.26599/TST.2024.9010242.pdf",
     "publisher": "清华大学出版社",
     "issn": "1007-0214",
-    "research_area": []
+    "research_area": [
+      "network security"
+    ]
   },
   {
     "doi": "10.26599/TST.2025.9010015",
@@ -308,7 +326,10 @@
     "pdf": "https://www.sciopen.com/local/article_pdf/10.26599/TST.2025.9010015.pdf",
     "publisher": "清华大学出版社",
     "issn": "1007-0214",
-    "research_area": []
+    "research_area": [
+      "machine learning",
+      "pattern recognition"
+    ]
   },
   {
     "doi": "10.26599/TST.2025.9010025",
@@ -343,7 +364,9 @@
     "pdf": "https://www.sciopen.com/local/article_pdf/10.26599/TST.2025.9010025.pdf",
     "publisher": "清华大学出版社",
     "issn": "1007-0214",
-    "research_area": []
+    "research_area": [
+      "computer vision"
+    ]
   },
   {
     "doi": "10.26599/TST.2025.9010032",
@@ -381,7 +404,9 @@
     "pdf": "https://www.sciopen.com/local/article_pdf/10.26599/TST.2025.9010032.pdf",
     "publisher": "清华大学出版社",
     "issn": "1007-0214",
-    "research_area": []
+    "research_area": [
+      "network security"
+    ]
   },
   {
     "doi": "10.26599/TST.2024.9010204",
@@ -417,7 +442,10 @@
     "pdf": "https://www.sciopen.com/local/article_pdf/10.26599/TST.2024.9010204.pdf",
     "publisher": "清华大学出版社",
     "issn": "1007-0214",
-    "research_area": []
+    "research_area": [
+      "network security",
+      "artificial intelligence"
+    ]
   },
   {
     "doi": "10.26599/TST.2025.9010005",
@@ -495,7 +523,10 @@
     "pdf": "https://www.sciopen.com/local/article_pdf/10.26599/TST.2024.9010084.pdf",
     "publisher": "清华大学出版社",
     "issn": "1007-0214",
-    "research_area": []
+    "research_area": [
+      "network security",
+      "computer networking"
+    ]
   },
   {
     "doi": "10.26599/TST.2024.9010200",
@@ -531,7 +562,9 @@
     "pdf": "https://www.sciopen.com/local/article_pdf/10.26599/TST.2024.9010200.pdf",
     "publisher": "清华大学出版社",
     "issn": "1007-0214",
-    "research_area": []
+    "research_area": [
+      "machine learning"
+    ]
   },
   {
     "doi": "10.26599/TST.2024.9010156",
@@ -567,7 +600,9 @@
     "pdf": "https://www.sciopen.com/local/article_pdf/10.26599/TST.2024.9010156.pdf",
     "publisher": "清华大学出版社",
     "issn": "1007-0214",
-    "research_area": []
+    "research_area": [
+      "artificial intelligence"
+    ]
   },
   {
     "doi": "10.26599/TST.2026.9010062",
@@ -602,7 +637,10 @@
     "pdf": "https://www.sciopen.com/local/article_pdf/10.26599/TST.2026.9010062.pdf",
     "publisher": "清华大学出版社",
     "issn": "1007-0214",
-    "research_area": []
+    "research_area": [
+      "embodied intelligence",
+      "artificial intelligence"
+    ]
   },
   {
     "doi": "10.26599/TST.2025.9010116",
@@ -641,7 +679,10 @@
     "pdf": "https://www.sciopen.com/local/article_pdf/10.26599/TST.2025.9010116.pdf",
     "publisher": "清华大学出版社",
     "issn": "1007-0214",
-    "research_area": []
+    "research_area": [
+      "machine learning",
+      "pattern recognition"
+    ]
   },
   {
     "doi": "10.26599/TST.2025.9010115",
@@ -682,7 +723,9 @@
     "pdf": "https://www.sciopen.com/local/article_pdf/10.26599/TST.2025.9010115.pdf",
     "publisher": "清华大学出版社",
     "issn": "1007-0214",
-    "research_area": []
+    "research_area": [
+      "machine learning"
+    ]
   },
   {
     "doi": "10.26599/TST.2024.9010262",
@@ -722,7 +765,10 @@
     "pdf": "https://www.sciopen.com/local/article_pdf/10.26599/TST.2024.9010262.pdf",
     "publisher": "清华大学出版社",
     "issn": "1007-0214",
-    "research_area": []
+    "research_area": [
+      "human-robot collaboration",
+      "artificial intelligence"
+    ]
   },
   {
     "doi": "10.26599/TST.2024.9010253",
@@ -761,7 +807,9 @@
     "pdf": "https://www.sciopen.com/local/article_pdf/10.26599/TST.2024.9010253.pdf",
     "publisher": "清华大学出版社",
     "issn": "1007-0214",
-    "research_area": []
+    "research_area": [
+      "artificial intelligence"
+    ]
   },
   {
     "doi": "10.26599/TST.2024.9010249",
@@ -798,7 +846,9 @@
     "pdf": "https://www.sciopen.com/local/article_pdf/10.26599/TST.2024.9010249.pdf",
     "publisher": "清华大学出版社",
     "issn": "1007-0214",
-    "research_area": []
+    "research_area": [
+      "computer vision"
+    ]
   },
   {
     "doi": "10.26599/TST.2024.9010247",
@@ -833,7 +883,10 @@
     "pdf": "https://www.sciopen.com/local/article_pdf/10.26599/TST.2024.9010247.pdf",
     "publisher": "清华大学出版社",
     "issn": "1007-0214",
-    "research_area": []
+    "research_area": [
+      "artificial intelligence",
+      "machine learning"
+    ]
   },
   {
     "doi": "10.26599/TST.2024.9010255",
@@ -869,7 +922,10 @@
     "pdf": "https://www.sciopen.com/local/article_pdf/10.26599/TST.2024.9010255.pdf",
     "publisher": "清华大学出版社",
     "issn": "1007-0214",
-    "research_area": []
+    "research_area": [
+      "edge computing",
+      "distributed and parallel system"
+    ]
   },
   {
     "doi": "10.26599/TST.2025.9010003",
@@ -908,7 +964,9 @@
     "pdf": "https://www.sciopen.com/local/article_pdf/10.26599/TST.2025.9010003.pdf",
     "publisher": "清华大学出版社",
     "issn": "1007-0214",
-    "research_area": []
+    "research_area": [
+      "artificial intelligence"
+    ]
   },
   {
     "doi": "10.26599/TST.2024.9010264",
@@ -944,7 +1002,10 @@
     "pdf": "https://www.sciopen.com/local/article_pdf/10.26599/TST.2024.9010264.pdf",
     "publisher": "清华大学出版社",
     "issn": "1007-0214",
-    "research_area": []
+    "research_area": [
+      "edge computing",
+      "network security"
+    ]
   },
   {
     "doi": "10.26599/TST.2024.9010248",
@@ -984,7 +1045,9 @@
     "pdf": "https://www.sciopen.com/local/article_pdf/10.26599/TST.2024.9010248.pdf",
     "publisher": "清华大学出版社",
     "issn": "1007-0214",
-    "research_area": []
+    "research_area": [
+      "artificial intelligence"
+    ]
   },
   {
     "doi": "10.26599/TST.2024.9010244",
@@ -1032,7 +1095,9 @@
     "pdf": "https://www.sciopen.com/local/article_pdf/10.26599/TST.2024.9010244.pdf",
     "publisher": "清华大学出版社",
     "issn": "1007-0214",
-    "research_area": []
+    "research_area": [
+      "network security"
+    ]
   },
   {
     "doi": "10.26599/TST.2024.9010240",
@@ -1068,7 +1133,9 @@
     "pdf": "https://www.sciopen.com/local/article_pdf/10.26599/TST.2024.9010240.pdf",
     "publisher": "清华大学出版社",
     "issn": "1007-0214",
-    "research_area": []
+    "research_area": [
+      "machine learning"
+    ]
   },
   {
     "doi": "10.26599/TST.2025.9010017",
@@ -1108,7 +1175,9 @@
     "pdf": "https://www.sciopen.com/local/article_pdf/10.26599/TST.2025.9010017.pdf",
     "publisher": "清华大学出版社",
     "issn": "1007-0214",
-    "research_area": []
+    "research_area": [
+      "computer networking"
+    ]
   },
   {
     "doi": "10.26599/TST.2025.9010008",
@@ -1145,7 +1214,10 @@
     "pdf": "https://www.sciopen.com/local/article_pdf/10.26599/TST.2025.9010008.pdf",
     "publisher": "清华大学出版社",
     "issn": "1007-0214",
-    "research_area": []
+    "research_area": [
+      "computer vision",
+      "machine learning"
+    ]
   },
   {
     "doi": "10.26599/TST.2025.9010011",
@@ -1182,7 +1254,10 @@
     "pdf": "https://www.sciopen.com/local/article_pdf/10.26599/TST.2025.9010011.pdf",
     "publisher": "清华大学出版社",
     "issn": "1007-0214",
-    "research_area": []
+    "research_area": [
+      "network security",
+      "pattern recognition"
+    ]
   },
   {
     "doi": "10.26599/TST.2025.9010013",
@@ -1222,7 +1297,9 @@
     "pdf": "https://www.sciopen.com/local/article_pdf/10.26599/TST.2025.9010013.pdf",
     "publisher": "清华大学出版社",
     "issn": "1007-0214",
-    "research_area": []
+    "research_area": [
+      "machine learning"
+    ]
   },
   {
     "doi": "10.26599/TST.2024.9010003",
@@ -1260,7 +1337,10 @@
     "pdf": "https://www.sciopen.com/local/article_pdf/10.26599/TST.2024.9010003.pdf",
     "publisher": "清华大学出版社",
     "issn": "1007-0214",
-    "research_area": []
+    "research_area": [
+      "computer vision",
+      "machine learning"
+    ]
   },
   {
     "doi": "10.26599/TST.2025.9010174",
@@ -1302,7 +1382,10 @@
     "pdf": "https://www.sciopen.com/local/article_pdf/10.26599/TST.2025.9010174.pdf",
     "publisher": "清华大学出版社",
     "issn": "1007-0214",
-    "research_area": []
+    "research_area": [
+      "natural language processing",
+      "machine learning"
+    ]
   },
   {
     "doi": "10.26599/TST.2025.9010106",
@@ -1340,7 +1423,10 @@
     "pdf": "https://www.sciopen.com/local/article_pdf/10.26599/TST.2025.9010106.pdf",
     "publisher": "清华大学出版社",
     "issn": "1007-0214",
-    "research_area": []
+    "research_area": [
+      "natural language processing",
+      "machine learning"
+    ]
   },
   {
     "doi": "10.26599/TST.2024.9010258",
@@ -1377,7 +1463,9 @@
     "pdf": "https://www.sciopen.com/local/article_pdf/10.26599/TST.2024.9010258.pdf",
     "publisher": "清华大学出版社",
     "issn": "1007-0214",
-    "research_area": []
+    "research_area": [
+      "artificial intelligence"
+    ]
   },
   {
     "doi": "10.26599/TST.2024.9010178",
@@ -1414,7 +1502,9 @@
     "pdf": "https://www.sciopen.com/local/article_pdf/10.26599/TST.2024.9010178.pdf",
     "publisher": "清华大学出版社",
     "issn": "1007-0214",
-    "research_area": []
+    "research_area": [
+      "computer networking"
+    ]
   },
   {
     "doi": "10.26599/TST.2024.9010230",
@@ -1451,7 +1541,9 @@
     "pdf": "https://www.sciopen.com/local/article_pdf/10.26599/TST.2024.9010230.pdf",
     "publisher": "清华大学出版社",
     "issn": "1007-0214",
-    "research_area": []
+    "research_area": [
+      "machine learning"
+    ]
   },
   {
     "doi": "10.26599/TST.2024.9010232",
@@ -1484,7 +1576,10 @@
     "pdf": "https://www.sciopen.com/local/article_pdf/10.26599/TST.2024.9010232.pdf",
     "publisher": "清华大学出版社",
     "issn": "1007-0214",
-    "research_area": []
+    "research_area": [
+      "computer vision",
+      "artificial intelligence"
+    ]
   },
   {
     "doi": "10.26599/TST.2024.9010243",
@@ -1524,7 +1619,9 @@
     "pdf": "https://www.sciopen.com/local/article_pdf/10.26599/TST.2024.9010243.pdf",
     "publisher": "清华大学出版社",
     "issn": "1007-0214",
-    "research_area": []
+    "research_area": [
+      "network security"
+    ]
   },
   {
     "doi": "10.26599/TST.2024.9010211",
@@ -1562,7 +1659,9 @@
     "pdf": "https://www.sciopen.com/local/article_pdf/10.26599/TST.2024.9010211.pdf",
     "publisher": "清华大学出版社",
     "issn": "1007-0214",
-    "research_area": []
+    "research_area": [
+      "network security"
+    ]
   },
   {
     "doi": "10.26599/TST.2024.9010236",
@@ -1596,7 +1695,9 @@
     "pdf": "https://www.sciopen.com/local/article_pdf/10.26599/TST.2024.9010236.pdf",
     "publisher": "清华大学出版社",
     "issn": "1007-0214",
-    "research_area": []
+    "research_area": [
+      "artificial intelligence"
+    ]
   },
   {
     "doi": "10.26599/TST.2024.9010207",
@@ -1634,7 +1735,10 @@
     "pdf": "https://www.sciopen.com/local/article_pdf/10.26599/TST.2024.9010207.pdf",
     "publisher": "清华大学出版社",
     "issn": "1007-0214",
-    "research_area": []
+    "research_area": [
+      "computer vision",
+      "pattern recognition"
+    ]
   },
   {
     "doi": "10.26599/TST.2024.9010246",
@@ -1674,7 +1778,10 @@
     "pdf": "https://www.sciopen.com/local/article_pdf/10.26599/TST.2024.9010246.pdf",
     "publisher": "清华大学出版社",
     "issn": "1007-0214",
-    "research_area": []
+    "research_area": [
+      "computer vision",
+      "pattern recognition"
+    ]
   },
   {
     "doi": "10.26599/TST.2024.9010210",
@@ -1713,7 +1820,9 @@
     "pdf": "https://www.sciopen.com/local/article_pdf/10.26599/TST.2024.9010210.pdf",
     "publisher": "清华大学出版社",
     "issn": "1007-0214",
-    "research_area": []
+    "research_area": [
+      "distributed and parallel system"
+    ]
   },
   {
     "doi": "10.26599/TST.2024.9010234",
@@ -1788,7 +1897,9 @@
     "pdf": "https://www.sciopen.com/local/article_pdf/10.26599/TST.2024.9010228.pdf",
     "publisher": "清华大学出版社",
     "issn": "1007-0214",
-    "research_area": []
+    "research_area": [
+      "machine learning"
+    ]
   },
   {
     "doi": "10.26599/TST.2024.9010206",
@@ -1827,7 +1938,9 @@
     "pdf": "https://www.sciopen.com/local/article_pdf/10.26599/TST.2024.9010206.pdf",
     "publisher": "清华大学出版社",
     "issn": "1007-0214",
-    "research_area": []
+    "research_area": [
+      "network security"
+    ]
   },
   {
     "doi": "10.26599/TST.2024.9010215",
@@ -1867,7 +1980,9 @@
     "pdf": "https://www.sciopen.com/local/article_pdf/10.26599/TST.2024.9010215.pdf",
     "publisher": "清华大学出版社",
     "issn": "1007-0214",
-    "research_area": []
+    "research_area": [
+      "network security"
+    ]
   },
   {
     "doi": "10.26599/TST.2024.9010227",
@@ -1905,7 +2020,10 @@
     "pdf": "https://www.sciopen.com/local/article_pdf/10.26599/TST.2024.9010227.pdf",
     "publisher": "清华大学出版社",
     "issn": "1007-0214",
-    "research_area": []
+    "research_area": [
+      "edge computing",
+      "machine learning"
+    ]
   },
   {
     "doi": "10.26599/TST.2025.9010010",
@@ -1947,7 +2065,9 @@
     "pdf": "https://www.sciopen.com/local/article_pdf/10.26599/TST.2025.9010010.pdf",
     "publisher": "清华大学出版社",
     "issn": "1007-0214",
-    "research_area": []
+    "research_area": [
+      "storage and file system"
+    ]
   },
   {
     "doi": "10.26599/TST.2024.9010238",
@@ -1983,7 +2103,9 @@
     "pdf": "https://www.sciopen.com/local/article_pdf/10.26599/TST.2024.9010238.pdf",
     "publisher": "清华大学出版社",
     "issn": "1007-0214",
-    "research_area": []
+    "research_area": [
+      "virtualization system"
+    ]
   },
   {
     "doi": "10.26599/TST.2025.9010009",
@@ -2026,7 +2148,9 @@
     "pdf": "https://www.sciopen.com/local/article_pdf/10.26599/TST.2025.9010009.pdf",
     "publisher": "清华大学出版社",
     "issn": "1007-0214",
-    "research_area": []
+    "research_area": [
+      "computer networking"
+    ]
   },
   {
     "doi": "10.26599/TST.2024.9010220",
@@ -2065,7 +2189,10 @@
     "pdf": "https://www.sciopen.com/local/article_pdf/10.26599/TST.2024.9010220.pdf",
     "publisher": "清华大学出版社",
     "issn": "1007-0214",
-    "research_area": []
+    "research_area": [
+      "mobile system",
+      "network security"
+    ]
   },
   {
     "doi": "10.26599/TST.2025.9010031",
@@ -2103,7 +2230,9 @@
     "pdf": "https://www.sciopen.com/local/article_pdf/10.26599/TST.2025.9010031.pdf",
     "publisher": "清华大学出版社",
     "issn": "1007-0214",
-    "research_area": []
+    "research_area": [
+      "operating system"
+    ]
   },
   {
     "doi": "10.26599/TST.2025.9010057",
@@ -2138,7 +2267,9 @@
     "pdf": "https://www.sciopen.com/local/article_pdf/10.26599/TST.2025.9010057.pdf",
     "publisher": "清华大学出版社",
     "issn": "1007-0214",
-    "research_area": []
+    "research_area": [
+      "human-robot collaboration"
+    ]
   },
   {
     "doi": "10.26599/TST.2024.9010192",
@@ -2177,7 +2308,9 @@
     "pdf": "https://www.sciopen.com/local/article_pdf/10.26599/TST.2024.9010192.pdf",
     "publisher": "清华大学出版社",
     "issn": "1007-0214",
-    "research_area": []
+    "research_area": [
+      "distributed and parallel system"
+    ]
   },
   {
     "doi": "10.26599/TST.2024.9010193",
@@ -2214,7 +2347,9 @@
     "pdf": "https://www.sciopen.com/local/article_pdf/10.26599/TST.2024.9010193.pdf",
     "publisher": "清华大学出版社",
     "issn": "1007-0214",
-    "research_area": []
+    "research_area": [
+      "machine learning"
+    ]
   },
   {
     "doi": "10.26599/TST.2024.9010201",
@@ -2253,7 +2388,10 @@
     "pdf": "https://www.sciopen.com/local/article_pdf/10.26599/TST.2024.9010201.pdf",
     "publisher": "清华大学出版社",
     "issn": "1007-0214",
-    "research_area": []
+    "research_area": [
+      "machine learning",
+      "artificial intelligence"
+    ]
   },
   {
     "doi": "10.26599/TST.2024.9010217",
@@ -2291,7 +2429,9 @@
     "pdf": "https://www.sciopen.com/local/article_pdf/10.26599/TST.2024.9010217.pdf",
     "publisher": "清华大学出版社",
     "issn": "1007-0214",
-    "research_area": []
+    "research_area": [
+      "machine learning"
+    ]
   },
   {
     "doi": "10.26599/TST.2025.9010021",
@@ -2326,7 +2466,9 @@
     "pdf": "https://www.sciopen.com/local/article_pdf/10.26599/TST.2025.9010021.pdf",
     "publisher": "清华大学出版社",
     "issn": "1007-0214",
-    "research_area": []
+    "research_area": [
+      "machine learning"
+    ]
   },
   {
     "doi": "10.26599/TST.2024.9010195",
@@ -2361,7 +2503,9 @@
     "pdf": "https://www.sciopen.com/local/article_pdf/10.26599/TST.2024.9010195.pdf",
     "publisher": "清华大学出版社",
     "issn": "1007-0214",
-    "research_area": []
+    "research_area": [
+      "machine learning"
+    ]
   },
   {
     "doi": "10.26599/TST.2024.9010196",
@@ -2399,7 +2543,9 @@
     "pdf": "https://www.sciopen.com/local/article_pdf/10.26599/TST.2024.9010196.pdf",
     "publisher": "清华大学出版社",
     "issn": "1007-0214",
-    "research_area": []
+    "research_area": [
+      "natural language processing"
+    ]
   },
   {
     "doi": "10.26599/TST.2024.9010203",
@@ -2443,7 +2589,10 @@
     "pdf": "https://www.sciopen.com/local/article_pdf/10.26599/TST.2024.9010203.pdf",
     "publisher": "清华大学出版社",
     "issn": "1007-0214",
-    "research_area": []
+    "research_area": [
+      "pattern recognition",
+      "machine learning"
+    ]
   },
   {
     "doi": "10.26599/TST.2025.9010119",
@@ -2481,7 +2630,9 @@
     "pdf": "https://www.sciopen.com/local/article_pdf/10.26599/TST.2025.9010119.pdf",
     "publisher": "清华大学出版社",
     "issn": "1007-0214",
-    "research_area": []
+    "research_area": [
+      "network security"
+    ]
   },
   {
     "doi": "10.26599/TST.2025.9010082",
@@ -2521,7 +2672,10 @@
     "pdf": "https://www.sciopen.com/local/article_pdf/10.26599/TST.2025.9010082.pdf",
     "publisher": "清华大学出版社",
     "issn": "1007-0214",
-    "research_area": []
+    "research_area": [
+      "edge computing",
+      "computer vision"
+    ]
   },
   {
     "doi": "10.26599/TST.2025.9010073",
@@ -2559,7 +2713,10 @@
     "pdf": "https://www.sciopen.com/local/article_pdf/10.26599/TST.2025.9010073.pdf",
     "publisher": "清华大学出版社",
     "issn": "1007-0214",
-    "research_area": []
+    "research_area": [
+      "cloud computing",
+      "network security"
+    ]
   },
   {
     "doi": "10.26599/TST.2025.9010133",
@@ -2599,7 +2756,9 @@
     "pdf": "https://www.sciopen.com/local/article_pdf/10.26599/TST.2025.9010133.pdf",
     "publisher": "清华大学出版社",
     "issn": "1007-0214",
-    "research_area": []
+    "research_area": [
+      "machine learning"
+    ]
   },
   {
     "doi": "10.26599/TST.2025.9010063",
@@ -2635,7 +2794,9 @@
     "pdf": "https://www.sciopen.com/local/article_pdf/10.26599/TST.2025.9010063.pdf",
     "publisher": "清华大学出版社",
     "issn": "1007-0214",
-    "research_area": []
+    "research_area": [
+      "network security"
+    ]
   },
   {
     "doi": "10.26599/TST.2025.9010066",
@@ -2672,7 +2833,9 @@
     "pdf": "https://www.sciopen.com/local/article_pdf/10.26599/TST.2025.9010066.pdf",
     "publisher": "清华大学出版社",
     "issn": "1007-0214",
-    "research_area": []
+    "research_area": [
+      "machine learning"
+    ]
   },
   {
     "doi": "10.26599/TST.2025.9010100",
@@ -2745,7 +2908,9 @@
     "pdf": "https://www.sciopen.com/local/article_pdf/10.26599/TST.2024.9010265.pdf",
     "publisher": "清华大学出版社",
     "issn": "1007-0214",
-    "research_area": []
+    "research_area": [
+      "artificial intelligence"
+    ]
   },
   {
     "doi": "10.26599/TST.2024.9010218",
@@ -2780,7 +2945,9 @@
     "pdf": "https://www.sciopen.com/local/article_pdf/10.26599/TST.2024.9010218.pdf",
     "publisher": "清华大学出版社",
     "issn": "1007-0214",
-    "research_area": []
+    "research_area": [
+      "machine learning"
+    ]
   },
   {
     "doi": "10.26599/TST.2024.9010189",
@@ -2814,7 +2981,10 @@
     "pdf": "https://www.sciopen.com/local/article_pdf/10.26599/TST.2024.9010189.pdf",
     "publisher": "清华大学出版社",
     "issn": "1007-0214",
-    "research_area": []
+    "research_area": [
+      "computer vision",
+      "machine learning"
+    ]
   },
   {
     "doi": "10.26599/TST.2024.9010194",
@@ -2849,7 +3019,9 @@
     "pdf": "https://www.sciopen.com/local/article_pdf/10.26599/TST.2024.9010194.pdf",
     "publisher": "清华大学出版社",
     "issn": "1007-0214",
-    "research_area": []
+    "research_area": [
+      "human-robot collaboration"
+    ]
   },
   {
     "doi": "10.26599/TST.2024.9010188",
@@ -2884,7 +3056,9 @@
     "pdf": "https://www.sciopen.com/local/article_pdf/10.26599/TST.2024.9010188.pdf",
     "publisher": "清华大学出版社",
     "issn": "1007-0214",
-    "research_area": []
+    "research_area": [
+      "human-robot collaboration"
+    ]
   },
   {
     "doi": "10.26599/TST.2024.9010202",
@@ -2920,7 +3094,10 @@
     "pdf": "https://www.sciopen.com/local/article_pdf/10.26599/TST.2024.9010202.pdf",
     "publisher": "清华大学出版社",
     "issn": "1007-0214",
-    "research_area": []
+    "research_area": [
+      "human-robot collaboration",
+      "artificial intelligence"
+    ]
   },
   {
     "doi": "10.26599/TST.2024.9010213",
@@ -2959,7 +3136,9 @@
     "pdf": "https://www.sciopen.com/local/article_pdf/10.26599/TST.2024.9010213.pdf",
     "publisher": "清华大学出版社",
     "issn": "1007-0214",
-    "research_area": []
+    "research_area": [
+      "network security"
+    ]
   },
   {
     "doi": "10.26599/TST.2024.9010252",
@@ -2998,7 +3177,9 @@
     "pdf": "https://www.sciopen.com/local/article_pdf/10.26599/TST.2024.9010252.pdf",
     "publisher": "清华大学出版社",
     "issn": "1007-0214",
-    "research_area": []
+    "research_area": [
+      "computer networking"
+    ]
   },
   {
     "doi": "10.26599/TST.2024.9010237",
@@ -3038,7 +3219,9 @@
     "pdf": "https://www.sciopen.com/local/article_pdf/10.26599/TST.2024.9010237.pdf",
     "publisher": "清华大学出版社",
     "issn": "1007-0214",
-    "research_area": []
+    "research_area": [
+      "computer networking"
+    ]
   },
   {
     "doi": "10.26599/TST.2025.9010001",
@@ -3074,7 +3257,9 @@
     "pdf": "https://www.sciopen.com/local/article_pdf/10.26599/TST.2025.9010001.pdf",
     "publisher": "清华大学出版社",
     "issn": "1007-0214",
-    "research_area": []
+    "research_area": [
+      "distributed and parallel system"
+    ]
   },
   {
     "doi": "10.26599/TST.2024.9010190",
@@ -3109,7 +3294,10 @@
     "pdf": "https://www.sciopen.com/local/article_pdf/10.26599/TST.2024.9010190.pdf",
     "publisher": "清华大学出版社",
     "issn": "1007-0214",
-    "research_area": []
+    "research_area": [
+      "edge computing",
+      "computer networking"
+    ]
   },
   {
     "doi": "10.26599/TST.2024.9010229",
@@ -3145,7 +3333,9 @@
     "pdf": "https://www.sciopen.com/local/article_pdf/10.26599/TST.2024.9010229.pdf",
     "publisher": "清华大学出版社",
     "issn": "1007-0214",
-    "research_area": []
+    "research_area": [
+      "machine learning"
+    ]
   },
   {
     "doi": "10.26599/TST.2025.9010086",
@@ -3183,7 +3373,9 @@
     "pdf": "https://www.sciopen.com/local/article_pdf/10.26599/TST.2025.9010086.pdf",
     "publisher": "清华大学出版社",
     "issn": "1007-0214",
-    "research_area": []
+    "research_area": [
+      "machine learning"
+    ]
   },
   {
     "doi": "10.26599/TST.2025.9010006",
@@ -3221,7 +3413,10 @@
     "pdf": "https://www.sciopen.com/local/article_pdf/10.26599/TST.2025.9010006.pdf",
     "publisher": "清华大学出版社",
     "issn": "1007-0214",
-    "research_area": []
+    "research_area": [
+      "pattern recognition",
+      "machine learning"
+    ]
   },
   {
     "doi": "10.26599/TST.2025.9010079",
@@ -3257,7 +3452,10 @@
     "pdf": "https://www.sciopen.com/local/article_pdf/10.26599/TST.2025.9010079.pdf",
     "publisher": "清华大学出版社",
     "issn": "1007-0214",
-    "research_area": []
+    "research_area": [
+      "pattern recognition",
+      "machine learning"
+    ]
   },
   {
     "doi": "10.26599/TST.2025.9010178",
@@ -3296,7 +3494,10 @@
     "pdf": "https://www.sciopen.com/local/article_pdf/10.26599/TST.2025.9010178.pdf",
     "publisher": "清华大学出版社",
     "issn": "1007-0214",
-    "research_area": []
+    "research_area": [
+      "computer vision",
+      "artificial intelligence"
+    ]
   },
   {
     "doi": "10.26599/TST.2025.9010169",
@@ -3335,7 +3536,10 @@
     "pdf": "https://www.sciopen.com/local/article_pdf/10.26599/TST.2025.9010169.pdf",
     "publisher": "清华大学出版社",
     "issn": "1007-0214",
-    "research_area": []
+    "research_area": [
+      "distributed and parallel system",
+      "machine learning"
+    ]
   },
   {
     "doi": "10.26599/TST.2025.9010168",
@@ -3372,7 +3576,9 @@
     "pdf": "https://www.sciopen.com/local/article_pdf/10.26599/TST.2025.9010168.pdf",
     "publisher": "清华大学出版社",
     "issn": "1007-0214",
-    "research_area": []
+    "research_area": [
+      "artificial intelligence"
+    ]
   },
   {
     "doi": "10.26599/TST.2025.9010167",
@@ -3412,7 +3618,9 @@
     "pdf": "https://www.sciopen.com/local/article_pdf/10.26599/TST.2025.9010167.pdf",
     "publisher": "清华大学出版社",
     "issn": "1007-0214",
-    "research_area": []
+    "research_area": [
+      "network security"
+    ]
   },
   {
     "doi": "10.26599/TST.2025.9010166",
@@ -3451,7 +3659,10 @@
     "pdf": "https://www.sciopen.com/local/article_pdf/10.26599/TST.2025.9010166.pdf",
     "publisher": "清华大学出版社",
     "issn": "1007-0214",
-    "research_area": []
+    "research_area": [
+      "edge computing",
+      "natural language processing"
+    ]
   },
   {
     "doi": "10.26599/TST.2025.9010157",
@@ -3486,7 +3697,9 @@
     "pdf": "https://www.sciopen.com/local/article_pdf/10.26599/TST.2025.9010157.pdf",
     "publisher": "清华大学出版社",
     "issn": "1007-0214",
-    "research_area": []
+    "research_area": [
+      "machine learning"
+    ]
   },
   {
     "doi": "10.26599/TST.2025.9010096",
@@ -3525,7 +3738,10 @@
     "pdf": "https://www.sciopen.com/local/article_pdf/10.26599/TST.2025.9010096.pdf",
     "publisher": "清华大学出版社",
     "issn": "1007-0214",
-    "research_area": []
+    "research_area": [
+      "computer vision",
+      "human-robot collaboration"
+    ]
   },
   {
     "doi": "10.26599/TST.2025.9010045",
@@ -3562,7 +3778,10 @@
     "pdf": "https://www.sciopen.com/local/article_pdf/10.26599/TST.2025.9010045.pdf",
     "publisher": "清华大学出版社",
     "issn": "1007-0214",
-    "research_area": []
+    "research_area": [
+      "computer vision",
+      "artificial intelligence"
+    ]
   },
   {
     "doi": "10.26599/TST.2025.9010091",
@@ -3603,7 +3822,9 @@
     "pdf": "https://www.sciopen.com/local/article_pdf/10.26599/TST.2025.9010091.pdf",
     "publisher": "清华大学出版社",
     "issn": "1007-0214",
-    "research_area": []
+    "research_area": [
+      "computer vision"
+    ]
   },
   {
     "doi": "10.26599/TST.2025.9010092",
@@ -3639,7 +3860,9 @@
     "pdf": "https://www.sciopen.com/local/article_pdf/10.26599/TST.2025.9010092.pdf",
     "publisher": "清华大学出版社",
     "issn": "1007-0214",
-    "research_area": []
+    "research_area": [
+      "computer networking"
+    ]
   },
   {
     "doi": "10.26599/TST.2024.9010212",
@@ -3678,7 +3901,9 @@
     "pdf": "https://www.sciopen.com/local/article_pdf/10.26599/TST.2024.9010212.pdf",
     "publisher": "清华大学出版社",
     "issn": "1007-0214",
-    "research_area": []
+    "research_area": [
+      "machine learning"
+    ]
   },
   {
     "doi": "10.26599/TST.2024.9010245",
@@ -3717,7 +3942,10 @@
     "pdf": "https://www.sciopen.com/local/article_pdf/10.26599/TST.2024.9010245.pdf",
     "publisher": "清华大学出版社",
     "issn": "1007-0214",
-    "research_area": []
+    "research_area": [
+      "cloud computing",
+      "edge computing"
+    ]
   },
   {
     "doi": "10.26599/TST.2025.9010023",
@@ -3754,7 +3982,10 @@
     "pdf": "https://www.sciopen.com/local/article_pdf/10.26599/TST.2025.9010023.pdf",
     "publisher": "清华大学出版社",
     "issn": "1007-0214",
-    "research_area": []
+    "research_area": [
+      "cloud computing",
+      "edge computing"
+    ]
   },
   {
     "doi": "10.26599/TST.2025.9010028",
@@ -3793,7 +4024,9 @@
     "pdf": "https://www.sciopen.com/local/article_pdf/10.26599/TST.2025.9010028.pdf",
     "publisher": "清华大学出版社",
     "issn": "1007-0214",
-    "research_area": []
+    "research_area": [
+      "network security"
+    ]
   },
   {
     "doi": "10.26599/TST.2024.9010171",
@@ -3831,7 +4064,10 @@
     "pdf": "https://www.sciopen.com/local/article_pdf/10.26599/TST.2024.9010171.pdf",
     "publisher": "清华大学出版社",
     "issn": "1007-0214",
-    "research_area": []
+    "research_area": [
+      "edge computing",
+      "machine learning"
+    ]
   },
   {
     "doi": "10.26599/TST.2024.9010172",
@@ -3868,7 +4104,9 @@
     "pdf": "https://www.sciopen.com/local/article_pdf/10.26599/TST.2024.9010172.pdf",
     "publisher": "清华大学出版社",
     "issn": "1007-0214",
-    "research_area": []
+    "research_area": [
+      "artificial intelligence"
+    ]
   },
   {
     "doi": "10.26599/TST.2024.9010147",
@@ -3908,7 +4146,9 @@
     "pdf": "https://www.sciopen.com/local/article_pdf/10.26599/TST.2024.9010147.pdf",
     "publisher": "清华大学出版社",
     "issn": "1007-0214",
-    "research_area": []
+    "research_area": [
+      "machine learning"
+    ]
   },
   {
     "doi": "10.26599/TST.2024.9010143",
@@ -3943,7 +4183,9 @@
     "pdf": "https://www.sciopen.com/local/article_pdf/10.26599/TST.2024.9010143.pdf",
     "publisher": "清华大学出版社",
     "issn": "1007-0214",
-    "research_area": []
+    "research_area": [
+      "machine learning"
+    ]
   },
   {
     "doi": "10.26599/TST.2024.9010144",
@@ -3978,7 +4220,9 @@
     "pdf": "https://www.sciopen.com/local/article_pdf/10.26599/TST.2024.9010144.pdf",
     "publisher": "清华大学出版社",
     "issn": "1007-0214",
-    "research_area": []
+    "research_area": [
+      "machine learning"
+    ]
   },
   {
     "doi": "10.26599/TST.2024.9010181",
@@ -4060,7 +4304,9 @@
     "pdf": "https://www.sciopen.com/local/article_pdf/10.26599/TST.2024.9010133.pdf",
     "publisher": "清华大学出版社",
     "issn": "1007-0214",
-    "research_area": []
+    "research_area": [
+      "edge computing"
+    ]
   },
   {
     "doi": "10.26599/TST.2025.9010030",
@@ -4096,7 +4342,10 @@
     "pdf": "https://www.sciopen.com/local/article_pdf/10.26599/TST.2025.9010030.pdf",
     "publisher": "清华大学出版社",
     "issn": "1007-0214",
-    "research_area": []
+    "research_area": [
+      "network security",
+      "computer vision"
+    ]
   },
   {
     "doi": "10.26599/TST.2024.9010161",
@@ -4133,7 +4382,9 @@
     "pdf": "https://www.sciopen.com/local/article_pdf/10.26599/TST.2024.9010161.pdf",
     "publisher": "清华大学出版社",
     "issn": "1007-0214",
-    "research_area": []
+    "research_area": [
+      "computer networking"
+    ]
   },
   {
     "doi": "10.26599/TST.2024.9010162",
@@ -4210,7 +4461,9 @@
     "pdf": "https://www.sciopen.com/local/article_pdf/10.26599/TST.2024.9010138.pdf",
     "publisher": "清华大学出版社",
     "issn": "1007-0214",
-    "research_area": []
+    "research_area": [
+      "natural language processing"
+    ]
   },
   {
     "doi": "10.26599/TST.2024.9010146",
@@ -4254,7 +4507,9 @@
     "pdf": "https://www.sciopen.com/local/article_pdf/10.26599/TST.2024.9010146.pdf",
     "publisher": "清华大学出版社",
     "issn": "1007-0214",
-    "research_area": []
+    "research_area": [
+      "edge computing"
+    ]
   },
   {
     "doi": "10.26599/TST.2024.9010137",
@@ -4288,7 +4543,9 @@
     "pdf": "https://www.sciopen.com/local/article_pdf/10.26599/TST.2024.9010137.pdf",
     "publisher": "清华大学出版社",
     "issn": "1007-0214",
-    "research_area": []
+    "research_area": [
+      "computer vision"
+    ]
   },
   {
     "doi": "10.26599/TST.2024.9010132",
@@ -4326,7 +4583,11 @@
     "pdf": "https://www.sciopen.com/local/article_pdf/10.26599/TST.2024.9010132.pdf",
     "publisher": "清华大学出版社",
     "issn": "1007-0214",
-    "research_area": []
+    "research_area": [
+      "mobile system",
+      "cloud computing",
+      "computer vision"
+    ]
   },
   {
     "doi": "10.26599/TST.2024.9010121",
@@ -4400,7 +4661,9 @@
     "pdf": "https://www.sciopen.com/local/article_pdf/10.26599/TST.2024.9010157.pdf",
     "publisher": "清华大学出版社",
     "issn": "1007-0214",
-    "research_area": []
+    "research_area": [
+      "computer vision"
+    ]
   },
   {
     "doi": "10.26599/TST.2024.9010129",
@@ -4441,7 +4704,10 @@
     "pdf": "https://www.sciopen.com/local/article_pdf/10.26599/TST.2024.9010129.pdf",
     "publisher": "清华大学出版社",
     "issn": "1007-0214",
-    "research_area": []
+    "research_area": [
+      "pattern recognition",
+      "machine learning"
+    ]
   },
   {
     "doi": "10.26599/TST.2024.9010167",
@@ -4481,7 +4747,10 @@
     "pdf": "https://www.sciopen.com/local/article_pdf/10.26599/TST.2024.9010167.pdf",
     "publisher": "清华大学出版社",
     "issn": "1007-0214",
-    "research_area": []
+    "research_area": [
+      "edge computing",
+      "network security"
+    ]
   },
   {
     "doi": "10.26599/TST.2024.9010079",
@@ -4517,7 +4786,9 @@
     "pdf": "https://www.sciopen.com/local/article_pdf/10.26599/TST.2024.9010079.pdf",
     "publisher": "清华大学出版社",
     "issn": "1007-0214",
-    "research_area": []
+    "research_area": [
+      "computer vision"
+    ]
   },
   {
     "doi": "10.26599/TST.2024.9010169",
@@ -4555,7 +4826,10 @@
     "pdf": "https://www.sciopen.com/local/article_pdf/10.26599/TST.2024.9010169.pdf",
     "publisher": "清华大学出版社",
     "issn": "1007-0214",
-    "research_area": []
+    "research_area": [
+      "network security",
+      "machine learning"
+    ]
   },
   {
     "doi": "10.26599/TST.2024.9010250",
@@ -4594,7 +4868,10 @@
     "pdf": "https://www.sciopen.com/local/article_pdf/10.26599/TST.2024.9010250.pdf",
     "publisher": "清华大学出版社",
     "issn": "1007-0214",
-    "research_area": []
+    "research_area": [
+      "edge computing",
+      "mobile system"
+    ]
   },
   {
     "doi": "10.26599/TST.2024.9010251",
@@ -4631,7 +4908,10 @@
     "pdf": "https://www.sciopen.com/local/article_pdf/10.26599/TST.2024.9010251.pdf",
     "publisher": "清华大学出版社",
     "issn": "1007-0214",
-    "research_area": []
+    "research_area": [
+      "edge computing",
+      "machine learning"
+    ]
   },
   {
     "doi": "10.26599/TST.2025.9010016",
@@ -4667,7 +4947,9 @@
     "pdf": "https://www.sciopen.com/local/article_pdf/10.26599/TST.2025.9010016.pdf",
     "publisher": "清华大学出版社",
     "issn": "1007-0214",
-    "research_area": []
+    "research_area": [
+      "artificial intelligence"
+    ]
   },
   {
     "doi": "10.26599/TST.2024.9010256",
@@ -4706,7 +4988,9 @@
     "pdf": "https://www.sciopen.com/local/article_pdf/10.26599/TST.2024.9010256.pdf",
     "publisher": "清华大学出版社",
     "issn": "1007-0214",
-    "research_area": []
+    "research_area": [
+      "machine learning"
+    ]
   },
   {
     "doi": "10.26599/TST.2024.9010198",
@@ -4741,7 +5025,10 @@
     "pdf": "https://www.sciopen.com/local/article_pdf/10.26599/TST.2024.9010198.pdf",
     "publisher": "清华大学出版社",
     "issn": "1007-0214",
-    "research_area": []
+    "research_area": [
+      "network security",
+      "natural language processing"
+    ]
   },
   {
     "doi": "10.26599/TST.2025.9010019",
@@ -4780,7 +5067,9 @@
     "pdf": "https://www.sciopen.com/local/article_pdf/10.26599/TST.2025.9010019.pdf",
     "publisher": "清华大学出版社",
     "issn": "1007-0214",
-    "research_area": []
+    "research_area": [
+      "edge computing"
+    ]
   },
   {
     "doi": "10.26599/TST.2025.9010033",
@@ -4817,7 +5106,9 @@
     "pdf": "https://www.sciopen.com/local/article_pdf/10.26599/TST.2025.9010033.pdf",
     "publisher": "清华大学出版社",
     "issn": "1007-0214",
-    "research_area": []
+    "research_area": [
+      "computer networking"
+    ]
   },
   {
     "doi": "10.26599/TST.2024.9010173",
@@ -4855,7 +5146,9 @@
     "pdf": "https://www.sciopen.com/local/article_pdf/10.26599/TST.2024.9010173.pdf",
     "publisher": "清华大学出版社",
     "issn": "1007-0214",
-    "research_area": []
+    "research_area": [
+      "computer vision"
+    ]
   },
   {
     "doi": "10.26599/TST.2024.9010165",
@@ -4895,7 +5188,9 @@
     "pdf": "https://www.sciopen.com/local/article_pdf/10.26599/TST.2024.9010165.pdf",
     "publisher": "清华大学出版社",
     "issn": "1007-0214",
-    "research_area": []
+    "research_area": [
+      "network security"
+    ]
   },
   {
     "doi": "10.26599/TST.2024.9010179",
@@ -4933,7 +5228,10 @@
     "pdf": "https://www.sciopen.com/local/article_pdf/10.26599/TST.2024.9010179.pdf",
     "publisher": "清华大学出版社",
     "issn": "1007-0214",
-    "research_area": []
+    "research_area": [
+      "edge computing",
+      "network security"
+    ]
   },
   {
     "doi": "10.26599/TST.2024.9010235",
@@ -4971,7 +5269,10 @@
     "pdf": "https://www.sciopen.com/local/article_pdf/10.26599/TST.2024.9010235.pdf",
     "publisher": "清华大学出版社",
     "issn": "1007-0214",
-    "research_area": []
+    "research_area": [
+      "virtualization system",
+      "distributed and parallel system"
+    ]
   },
   {
     "doi": "10.26599/TST.2025.9010029",
@@ -5009,7 +5310,9 @@
     "pdf": "https://www.sciopen.com/local/article_pdf/10.26599/TST.2025.9010029.pdf",
     "publisher": "清华大学出版社",
     "issn": "1007-0214",
-    "research_area": []
+    "research_area": [
+      "computer vision"
+    ]
   },
   {
     "doi": "10.26599/TST.2024.9010197",
@@ -5082,7 +5385,9 @@
     "pdf": "https://www.sciopen.com/local/article_pdf/10.26599/TST.2025.9010024.pdf",
     "publisher": "清华大学出版社",
     "issn": "1007-0214",
-    "research_area": []
+    "research_area": [
+      "artificial intelligence"
+    ]
   },
   {
     "doi": "10.26599/TST.2025.9010070",
@@ -5122,7 +5427,9 @@
     "pdf": "https://www.sciopen.com/local/article_pdf/10.26599/TST.2025.9010070.pdf",
     "publisher": "清华大学出版社",
     "issn": "1007-0214",
-    "research_area": []
+    "research_area": [
+      "human-robot collaboration"
+    ]
   },
   {
     "doi": "10.26599/TST.2024.9010119",
@@ -5158,7 +5465,9 @@
     "pdf": "https://www.sciopen.com/local/article_pdf/10.26599/TST.2024.9010119.pdf",
     "publisher": "清华大学出版社",
     "issn": "1007-0214",
-    "research_area": []
+    "research_area": [
+      "artificial intelligence"
+    ]
   },
   {
     "doi": "10.26599/TST.2024.9010263",
@@ -5193,7 +5502,9 @@
     "pdf": "https://www.sciopen.com/local/article_pdf/10.26599/TST.2024.9010263.pdf",
     "publisher": "清华大学出版社",
     "issn": "1007-0214",
-    "research_area": []
+    "research_area": [
+      "computer vision"
+    ]
   },
   {
     "doi": "10.26599/TST.2024.9010260",
@@ -5231,7 +5542,10 @@
     "pdf": "https://www.sciopen.com/local/article_pdf/10.26599/TST.2024.9010260.pdf",
     "publisher": "清华大学出版社",
     "issn": "1007-0214",
-    "research_area": []
+    "research_area": [
+      "natural language processing",
+      "computer vision"
+    ]
   },
   {
     "doi": "10.26599/TST.2024.9010205",
@@ -5268,7 +5582,9 @@
     "pdf": "https://www.sciopen.com/local/article_pdf/10.26599/TST.2024.9010205.pdf",
     "publisher": "清华大学出版社",
     "issn": "1007-0214",
-    "research_area": []
+    "research_area": [
+      "computer vision"
+    ]
   },
   {
     "doi": "10.26599/TST.2025.9010051",
@@ -5306,7 +5622,10 @@
     "pdf": "https://www.sciopen.com/local/article_pdf/10.26599/TST.2025.9010051.pdf",
     "publisher": "清华大学出版社",
     "issn": "1007-0214",
-    "research_area": []
+    "research_area": [
+      "machine learning",
+      "artificial intelligence"
+    ]
   },
   {
     "doi": "10.26599/TST.2024.9010108",
@@ -5341,7 +5660,9 @@
     "pdf": "https://www.sciopen.com/local/article_pdf/10.26599/TST.2024.9010108.pdf",
     "publisher": "清华大学出版社",
     "issn": "1007-0214",
-    "research_area": []
+    "research_area": [
+      "computer vision"
+    ]
   },
   {
     "doi": "10.26599/TST.2024.9010109",
@@ -5375,7 +5696,9 @@
     "pdf": "https://www.sciopen.com/local/article_pdf/10.26599/TST.2024.9010109.pdf",
     "publisher": "清华大学出版社",
     "issn": "1007-0214",
-    "research_area": []
+    "research_area": [
+      "distributed and parallel system"
+    ]
   },
   {
     "doi": "10.26599/TST.2024.9010099",
@@ -5413,7 +5736,9 @@
     "pdf": "https://www.sciopen.com/local/article_pdf/10.26599/TST.2024.9010099.pdf",
     "publisher": "清华大学出版社",
     "issn": "1007-0214",
-    "research_area": []
+    "research_area": [
+      "machine learning"
+    ]
   },
   {
     "doi": "10.26599/TST.2024.9010104",
@@ -5447,7 +5772,9 @@
     "pdf": "https://www.sciopen.com/local/article_pdf/10.26599/TST.2024.9010104.pdf",
     "publisher": "清华大学出版社",
     "issn": "1007-0214",
-    "research_area": []
+    "research_area": [
+      "natural language processing"
+    ]
   },
   {
     "doi": "10.26599/TST.2024.9010091",
@@ -5487,7 +5814,9 @@
     "pdf": "https://www.sciopen.com/local/article_pdf/10.26599/TST.2024.9010091.pdf",
     "publisher": "清华大学出版社",
     "issn": "1007-0214",
-    "research_area": []
+    "research_area": [
+      "artificial intelligence"
+    ]
   },
   {
     "doi": "10.26599/TST.2024.9010078",
@@ -5563,7 +5892,10 @@
     "pdf": "https://www.sciopen.com/local/article_pdf/10.26599/TST.2024.9010092.pdf",
     "publisher": "清华大学出版社",
     "issn": "1007-0214",
-    "research_area": []
+    "research_area": [
+      "edge computing",
+      "computer networking"
+    ]
   },
   {
     "doi": "10.26599/TST.2024.9010175",
@@ -5600,7 +5932,9 @@
     "pdf": "https://www.sciopen.com/local/article_pdf/10.26599/TST.2024.9010175.pdf",
     "publisher": "清华大学出版社",
     "issn": "1007-0214",
-    "research_area": []
+    "research_area": [
+      "machine learning"
+    ]
   },
   {
     "doi": "10.26599/TST.2024.9010153",
@@ -5641,7 +5975,10 @@
     "pdf": "https://www.sciopen.com/local/article_pdf/10.26599/TST.2024.9010153.pdf",
     "publisher": "清华大学出版社",
     "issn": "1007-0214",
-    "research_area": []
+    "research_area": [
+      "natural language processing",
+      "machine learning"
+    ]
   },
   {
     "doi": "10.26599/TST.2024.9010114",
@@ -5678,7 +6015,9 @@
     "pdf": "https://www.sciopen.com/local/article_pdf/10.26599/TST.2024.9010114.pdf",
     "publisher": "清华大学出版社",
     "issn": "1007-0214",
-    "research_area": []
+    "research_area": [
+      "machine learning"
+    ]
   },
   {
     "doi": "10.26599/TST.2025.9010012",
@@ -5717,7 +6056,9 @@
     "pdf": "https://www.sciopen.com/local/article_pdf/10.26599/TST.2025.9010012.pdf",
     "publisher": "清华大学出版社",
     "issn": "1007-0214",
-    "research_area": []
+    "research_area": [
+      "artificial intelligence"
+    ]
   },
   {
     "doi": "10.26599/TST.2024.9010224",
@@ -5754,7 +6095,9 @@
     "pdf": "https://www.sciopen.com/local/article_pdf/10.26599/TST.2024.9010224.pdf",
     "publisher": "清华大学出版社",
     "issn": "1007-0214",
-    "research_area": []
+    "research_area": [
+      "artificial intelligence"
+    ]
   },
   {
     "doi": "10.26599/TST.2024.9010241",
@@ -5790,7 +6133,9 @@
     "pdf": "https://www.sciopen.com/local/article_pdf/10.26599/TST.2024.9010241.pdf",
     "publisher": "清华大学出版社",
     "issn": "1007-0214",
-    "research_area": []
+    "research_area": [
+      "artificial intelligence"
+    ]
   },
   {
     "doi": "10.26599/TST.2024.9010183",
@@ -5829,7 +6174,9 @@
     "pdf": "https://www.sciopen.com/local/article_pdf/10.26599/TST.2024.9010183.pdf",
     "publisher": "清华大学出版社",
     "issn": "1007-0214",
-    "research_area": []
+    "research_area": [
+      "artificial intelligence"
+    ]
   },
   {
     "doi": "10.26599/TST.2024.9010166",
@@ -5866,7 +6213,10 @@
     "pdf": "https://www.sciopen.com/local/article_pdf/10.26599/TST.2024.9010166.pdf",
     "publisher": "清华大学出版社",
     "issn": "1007-0214",
-    "research_area": []
+    "research_area": [
+      "artificial intelligence",
+      "distributed and parallel system"
+    ]
   },
   {
     "doi": "10.26599/TST.2024.9010219",
@@ -5901,7 +6251,9 @@
     "pdf": "https://www.sciopen.com/local/article_pdf/10.26599/TST.2024.9010219.pdf",
     "publisher": "清华大学出版社",
     "issn": "1007-0214",
-    "research_area": []
+    "research_area": [
+      "artificial intelligence"
+    ]
   },
   {
     "doi": "10.26599/TST.2024.9010174",
@@ -5938,7 +6290,9 @@
     "pdf": "https://www.sciopen.com/local/article_pdf/10.26599/TST.2024.9010174.pdf",
     "publisher": "清华大学出版社",
     "issn": "1007-0214",
-    "research_area": []
+    "research_area": [
+      "artificial intelligence"
+    ]
   },
   {
     "doi": "10.26599/TST.2024.9010225",
@@ -5973,7 +6327,9 @@
     "pdf": "https://www.sciopen.com/local/article_pdf/10.26599/TST.2024.9010225.pdf",
     "publisher": "清华大学出版社",
     "issn": "1007-0214",
-    "research_area": []
+    "research_area": [
+      "artificial intelligence"
+    ]
   },
   {
     "doi": "10.26599/TST.2024.9010199",
@@ -6012,7 +6368,9 @@
     "pdf": "https://www.sciopen.com/local/article_pdf/10.26599/TST.2024.9010199.pdf",
     "publisher": "清华大学出版社",
     "issn": "1007-0214",
-    "research_area": []
+    "research_area": [
+      "edge computing"
+    ]
   },
   {
     "doi": "10.26599/TST.2024.9010163",
@@ -6052,7 +6410,9 @@
     "pdf": "https://www.sciopen.com/local/article_pdf/10.26599/TST.2024.9010163.pdf",
     "publisher": "清华大学出版社",
     "issn": "1007-0214",
-    "research_area": []
+    "research_area": [
+      "artificial intelligence"
+    ]
   },
   {
     "doi": "10.26599/TST.2024.9010164",
@@ -6090,7 +6450,9 @@
     "pdf": "https://www.sciopen.com/local/article_pdf/10.26599/TST.2024.9010164.pdf",
     "publisher": "清华大学出版社",
     "issn": "1007-0214",
-    "research_area": []
+    "research_area": [
+      "artificial intelligence"
+    ]
   },
   {
     "doi": "10.26599/TST.2024.9010180",
@@ -6128,7 +6490,9 @@
     "pdf": "https://www.sciopen.com/local/article_pdf/10.26599/TST.2024.9010180.pdf",
     "publisher": "清华大学出版社",
     "issn": "1007-0214",
-    "research_area": []
+    "research_area": [
+      "human-robot collaboration"
+    ]
   },
   {
     "doi": "10.26599/TST.2024.9010136",
@@ -6166,7 +6530,10 @@
     "pdf": "https://www.sciopen.com/local/article_pdf/10.26599/TST.2024.9010136.pdf",
     "publisher": "清华大学出版社",
     "issn": "1007-0214",
-    "research_area": []
+    "research_area": [
+      "machine learning",
+      "pattern recognition"
+    ]
   },
   {
     "doi": "10.26599/TST.2024.9010141",
@@ -6204,7 +6571,9 @@
     "pdf": "https://www.sciopen.com/local/article_pdf/10.26599/TST.2024.9010141.pdf",
     "publisher": "清华大学出版社",
     "issn": "1007-0214",
-    "research_area": []
+    "research_area": [
+      "artificial intelligence"
+    ]
   },
   {
     "doi": "10.26599/TST.2024.9010185",
@@ -6242,7 +6611,9 @@
     "pdf": "https://www.sciopen.com/local/article_pdf/10.26599/TST.2024.9010185.pdf",
     "publisher": "清华大学出版社",
     "issn": "1007-0214",
-    "research_area": []
+    "research_area": [
+      "artificial intelligence"
+    ]
   },
   {
     "doi": "10.26599/TST.2024.9010139",
@@ -6279,7 +6650,9 @@
     "pdf": "https://www.sciopen.com/local/article_pdf/10.26599/TST.2024.9010139.pdf",
     "publisher": "清华大学出版社",
     "issn": "1007-0214",
-    "research_area": []
+    "research_area": [
+      "artificial intelligence"
+    ]
   },
   {
     "doi": "10.26599/TST.2024.9010116",
@@ -6319,7 +6692,9 @@
     "pdf": "https://www.sciopen.com/local/article_pdf/10.26599/TST.2024.9010116.pdf",
     "publisher": "清华大学出版社",
     "issn": "1007-0214",
-    "research_area": []
+    "research_area": [
+      "artificial intelligence"
+    ]
   },
   {
     "doi": "10.26599/TST.2024.9010124",
@@ -6394,7 +6769,9 @@
     "pdf": "https://www.sciopen.com/local/article_pdf/10.26599/TST.2024.9010128.pdf",
     "publisher": "清华大学出版社",
     "issn": "1007-0214",
-    "research_area": []
+    "research_area": [
+      "artificial intelligence"
+    ]
   },
   {
     "doi": "10.26599/TST.2025.9010127",
@@ -6434,6 +6811,9 @@
     "pdf": "https://www.sciopen.com/local/article_pdf/10.26599/TST.2025.9010127.pdf",
     "publisher": "清华大学出版社",
     "issn": "1007-0214",
-    "research_area": []
+    "research_area": [
+      "embodied intelligence",
+      "edge computing"
+    ]
   }
 ]
